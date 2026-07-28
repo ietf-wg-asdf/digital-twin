@@ -1,0 +1,7 @@
+*.html
+*.txt
+*.pdf
+*.swp
+*~
+.DS_Store
+__pycache__/
