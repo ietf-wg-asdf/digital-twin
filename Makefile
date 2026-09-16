@@ -1,4 +1,4 @@
-DRAFT := draft-ietf-asdf-digital-twin-04
+DRAFT := draft-ietf-asdf-digital-twin-05
 XML2RFC ?= xml2rfc
 
 .PHONY: all text html clean
