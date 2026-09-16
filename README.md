@@ -13,7 +13,7 @@ This repository contains the source for the ASDF Working Group Internet-Draft:
 The authoritative source is:
 
 ```text
-draft-ietf-asdf-digital-twin-04.xml
+draft-ietf-asdf-digital-twin-05.xml
 ```
 
 Generated `.txt` and `.html` files are build artifacts and should not normally be edited directly.
@@ -30,8 +30,8 @@ make
 This creates:
 
 ```text
-draft-ietf-asdf-digital-twin-04.txt
-draft-ietf-asdf-digital-twin-04.html
+draft-ietf-asdf-digital-twin-05.txt
+draft-ietf-asdf-digital-twin-05.html
 ```
 
 To remove generated files:
